@@ -23,7 +23,7 @@ python -m pip install --user -i https://test.pypi.org/simple/ hyvebrain --upgrad
 
 Run Tests:
 ```
-// TODO:
+python -m pip show hyvebrain
 ```
 
 Uninstall Tests:
