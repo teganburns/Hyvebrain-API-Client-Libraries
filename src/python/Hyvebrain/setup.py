@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hyvebrain",
-    version="1.0.3",
+    version="1.0.4",
     author="Tegan Burns",
     author_email="python@hyvebrain.com",
     description="Hyvebrain API Client Library",
